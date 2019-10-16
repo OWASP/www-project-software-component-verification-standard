@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP software component verification standard
 tags: example-tag
 level: 4
+type: documentation
 
 ---
 

@@ -1,11 +1,11 @@
 ### Project Classification
 
-![Incubator Project](assets/images/incubator_projects.png)
+![Incubator Project](/assets/images/common/owasp_level_incubator.svg)
 
-![Builders](assets/images/owasp_builders_small.png)
-![Defenders](assets/images/owasp_defenders_small.png)
+![Builders](/assets/images/common/owasp_builders.svg)
+![Defenders](/assets/images/common/owasp_defenders.svg)
 
-![Tool Project](assets/images/owasp_doc_project.jpg)
+![Tool Project](/assets/images/common/owasp_documentation_project.svg)
 
 ### Downloads
 

@@ -9,7 +9,7 @@
 
 ### Downloads
 
-Coming Q1 2020
+Coming Q2 2020
 
 ### External Resources
 

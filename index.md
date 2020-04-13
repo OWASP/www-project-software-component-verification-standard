@@ -13,11 +13,11 @@ The Software Component Verification Standard (SCVS) is a community-driven effort
 identifying activities, controls, and best practices, which can help in identifying and reducing risk in a software 
 supply chain.
 
-<img align="right" style="padding: 10px;" width="220px" src="assets/images/scvs-mini-cover.png" />
-
 Managing risk in the software supply chain is important to reduce the surface area of systems vulnerable to exploits,
 and to measure technical debt as a barrier to remediation. 
  
+<img align="left" style="padding-left:0; padding-right:10px;" width="220px" src="assets/images/scvs-mini-cover.png" />
+
 Raising the bar for supply chain assurance requires the active participation of risk managers, mission owners, and 
 business units like legal and procurement, which have not traditionally been involved with technical implementation. 
 

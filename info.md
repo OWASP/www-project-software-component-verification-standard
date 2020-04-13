@@ -16,4 +16,4 @@ Coming Q2 2020
 
 ### Licensing
 
-![Creative Commons Attribution ShareAlike 3.0 license](assets/images/creative_commons_sharealike.png)
+![Creative Commons Attribution ShareAlike 3.0 license](assets/images/license.png)

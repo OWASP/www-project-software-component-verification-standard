@@ -6,6 +6,7 @@ site_side: true
 tags: scvs, sca, component analysis, scrm, cscrm, software transparency, sbom, supply chain, software supply chain
 level: 2
 type: documentation
+pitch: SCVS is a framework for identifying activities, controls, and best practices, which can help in identifying and reducing risk in a software supply chain.
 
 ---
 

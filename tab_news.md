@@ -1,11 +1,8 @@
 ---
-
 title: News
 layout: null
-order: 3
+order: 2
 tab: true
-tags: scvs news
-
 ---
 
 ## News

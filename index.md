@@ -40,3 +40,9 @@ over time.
 
 The SCVS project will release a public preview on or around 16 April 2020. The project expects a final version to be
 available in May or June 2020.
+
+### Translations
+
+The project maintainers are actively looking for volunteers to translate SCVS into a number of languages. Please 
+reach out on the projects Slack channel or on GitHub if interested.
+

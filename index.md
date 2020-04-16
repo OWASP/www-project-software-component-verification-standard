@@ -38,8 +38,11 @@ over time.
 
 ### Availability
 
-The SCVS project will release a public preview on or around 16 April 2020. The project expects a final version to be
-available in May or June 2020.
+The SCVS project has released version 1.0.0.RC.1 as a public preview. This release is the result of continuous 
+collaboration among a team of volunteers and subject matter experts.
+
+SCVS is available (in English) as PDF, Word (docx), JSON, or XML. It can also be 
+[read online via GitBook](https://owasp-scvs.gitbook.io/scvs/).
 
 ### Translations
 

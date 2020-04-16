@@ -8,5 +8,5 @@ tags: scvs
 
 ## News
 
-* 2020/4/16 - TBA
+* 2020/4/16 - Initial preview release v1.0.0-RC.1
 * 2019/8/28 - Project Launched

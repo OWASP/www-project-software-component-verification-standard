@@ -6,7 +6,8 @@
 
 ### Get SCVS
 
-Coming Q2 2020
+* [Download](https://github.com/OWASP/Software-Component-Verification-Standard/releases)
+* [Read online](https://owasp-scvs.gitbook.io/scvs/)
 
 ### External Resources
 

@@ -22,13 +22,6 @@ and to measure technical debt as a barrier to remediation.
 Measuring and improving software supply chain assurance is crucial for success. Organizations with supply chain visibility
 are better equipped to protect their brand, increase trust, reduce time-to-market, and manage costs in the event of a
 supply chain incident.
-
-Software supply chains involve:
- - technology
- - people
- - processes
- - institutions
- - and additional variables
  
 Raising the bar for supply chain assurance requires the active participation of
 risk managers, mission owners, and business units like legal and procurement, which have not traditionally been involved

@@ -7,10 +7,11 @@
 ### Get SCVS
 
 * [Download](https://github.com/OWASP/Software-Component-Verification-Standard/releases)
-* [Read online](https://owasp-scvs.gitbook.io/scvs/)
+* [Read online](https://scvs.owasp.org/scvs/)
 
 ### External Resources
 
+* [Website](https://scvs.owasp.org)
 * [GitHub](https://github.com/OWASP/Software-Component-Verification-Standard)
 * [Slack](https://owasp.slack.com/channels/project-scvs) - [invite](https://owasp-slack.herokuapp.com/)
 * [Twitter](https://twitter.com/OWASP_SCVS)

@@ -46,7 +46,7 @@ phase in controls at different levels over time.
 
 SCVS is available (in English) as PDF, Word (docx), JSON, or XML. These artifacts can be found in the projects
 [GitHub releases](https://github.com/OWASP/Software-Component-Verification-Standard/releases). It can also be 
-[read online via GitBook](https://owasp-scvs.gitbook.io/scvs/).
+[read online via GitBook](https://scvs.owasp.org/scvs/).
 
 ### Translations
 
